@@ -1,5 +1,5 @@
 {
-	"likes": [
+"likes": [
 		{
 			"id": 1,
 			"videoLikedBy": "user1"
@@ -9,19 +9,22 @@
 			"id": 2,
 			"videoLikedBy": "user2"
 			"videoId": "102"
-		},{
+		},
+		{
 			"id": 3,
 			"videoLikedBy": "user3"
 			"videoId": "103"
-		},{
+		},
+		{
 			"id": 4,
 			"videoLikedBy": "user4"
 			"videoId": "104"
-		},{
+		},
+		{
 			"id": 5,
 			"videoLikedBy": "user5"
 			"videoId": "105"
-		},
+		}
 
 	]
 
